@@ -1,0 +1,7 @@
+{
+  "name": "FinanzasIA",
+  "description": "Asesor financiero personal con inteligencia artificial para registrar y analizar ingresos y gastos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
